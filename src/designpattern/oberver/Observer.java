@@ -1,4 +1,4 @@
-package observer_design_pattern;
+package designpattern.oberver;
 
 public interface Observer {
 	public void update(float interest);

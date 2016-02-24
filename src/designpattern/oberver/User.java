@@ -1,4 +1,4 @@
-package observer_design_pattern;
+package designpattern.oberver;
 
 public class User implements Observer{
 	public String userName;
